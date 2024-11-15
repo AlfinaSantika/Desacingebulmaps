@@ -1,0 +1,1 @@
+var json_KelurahanDesa_14 = {"type":"FeatureCollection","name":"KelurahanDesa_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"Kantor Desa Cingebul"},"geometry":{"type":"Point","coordinates":[108.895932495494264,-7.455462312635755]}}]}
